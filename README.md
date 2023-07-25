@@ -1,5 +1,6 @@
 # Working with Kafka Streams using Flink
-Reference: [Blog](https://thecodinginterface.com/blog/kafka-source-sink-with-apache-flink-table-api/)  
+Reference:   
+[Blog by Adam McQuistan](https://thecodinginterface.com/blog/kafka-source-sink-with-apache-flink-table-api/)  
 Requirements:  
 [Docker Desktop](https://www.docker.com/products/docker-desktop/)  
 [Python Apache-Flink](https://nightlies.apache.org/flink/flink-docs-release-1.17/docs/dev/python/installation/)  
